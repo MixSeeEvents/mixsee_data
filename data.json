@@ -1,0 +1,8 @@
+{
+    "stateLocation": {
+            "Florida": ["florida1", "florida2", "florida3"],
+            "New York": ["york1", "york2", "york3", "york4"]
+        },
+    "eventTypes": ["Dance Clubs", "Live Concerts", "Sports Bar", "Hookah Lounge"]
+
+}
