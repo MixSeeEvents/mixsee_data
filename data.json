@@ -1,7 +1,6 @@
 {
     "stateLocation": {
-            "Florida": ["Tampa", "St Pete", "Clearwater", "Ft Lauderdale"],
-            "New York": ["Bronx", "Queens", "Harlem", "Brooklyn", "Manhattan", "Staten Island", "Queens"]
+            "Florida": ["Tampa", "St Pete", "Clearwater", "Ft Lauderdale"]
         },
     "eventTypes": ["Dance Clubs", "Live Concerts", "Sports Bar", "Hookah Lounge", "Strip Clubs"]
 
