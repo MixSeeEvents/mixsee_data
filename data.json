@@ -1,8 +1,9 @@
 {
     "stateLocation": {
             "Florida": ["Tampa", "Miami", "St Pete", "Orlando", "Clearwater", "Ft Lauderdale"],
+        "Georgia": ["Atlanta"],
         "Puerto Rico": ["Puerto Rico"]
         },
-    "eventTypes": ["Dance Clubs", "Live Concerts", "Sports Bar", "Hookah Lounge", "Strip Clubs"]
+    "eventTypes": ["Dance Clubs", "Live Concerts", "Comedy Shows", "Sports Bars", "Hookah Lounges", "Strip Clubs"]
 
 }
