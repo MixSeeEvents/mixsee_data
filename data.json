@@ -2,7 +2,7 @@
     "stateLocation": {
             "Florida": ["Tampa", "Miami", "St Pete", "Orlando", "Clearwater", "Ft Lauderdale", "RavensVsBucs", "EaglesVsBucs"],
         "Georgia": ["Atlanta"],
-        "Puerto Rico": ["Puerto Rico"],
+        "Puerto Rico": ["Puerto Rico"]
         },
     "eventTypes": ["Dance Clubs", "Live Concerts", "Comedy Shows", "Sports Bars", "Hookah Lounges", "Strip Clubs", "Special Events"]
 
